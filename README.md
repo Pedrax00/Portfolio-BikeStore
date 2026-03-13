@@ -21,7 +21,7 @@ A modelagem foi estruturada em formato Star Schema, garantindo integridade e cla
 Essa abordagem evitou a necessidade de importar dados de fontes externas e permitiu criar métricas consistentes para o dashboard no Power BI.
 <br>
 
-<br><br><br>
+<br><br>
 
 
 <br><br>
@@ -34,7 +34,7 @@ A investigação desse outlier reforça a importância de não apenas acompanhar
 <br>
 
 
-<br><br>
+<br>
 
 ## ✅ Resultados e Benefícios
 • 	Identificação das diferenças de escala entre as lojas (NY, CA, TX). <br>
