@@ -4,7 +4,7 @@ Utilizando o banco de dados BikeStores, que simula um ambiente varejista com mú
 <br><br>
 
 ## 🔍 Análise Exploratória de Dados
-<img align="right" width="500"  src="https://github.com/BruceFonseca2/AdventureWorksPortfolio/blob/main/imagens/AdventureWorks%20-%20Clientes.png?raw=true">
+<img align="right" width="500"  src="https://github.com/Pedrax00/Portfolio-BikeStore/blob/main/P%C3%A1gina%202%20-%20Lojas.png?raw=true">
 A primeira etapa consistiu em explorar a estrutura do banco de dados, entendendo tabelas, campos, tipos de dados e relacionamentos. A partir disso, foram desenvolvidas consultas SQL para extrair os principais indicadores e padrões iniciais: <br><br>
 • 	Faturamento total por loja e por mês <br>
 • 	Evolução mensal das vendas <br>
