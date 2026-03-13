@@ -14,10 +14,6 @@ A primeira etapa consistiu em explorar a estrutura do banco de dados, entendendo
 Essa análise permitiu levantar hipóteses sobre o comportamento das lojas e entender como fatores regionais podem influenciar os resultados
 <br><br>
 
-
-
-
-
 ## 🗂️ Modelo e Fonte de Dados
 <img align="left" width="500"  src="https://github.com/Pedrax00/Portfolio-BikeStore/blob/main/Imagens/Esquema%20Estrela.png?raw=true">
 O projeto utilizou o banco de dados BikeStores, que já contém todas as informações necessárias para análise (clientes, pedidos, produtos e lojas). <br>
@@ -25,8 +21,7 @@ A modelagem foi estruturada em formato Star Schema, garantindo integridade e cla
 Essa abordagem evitou a necessidade de importar dados de fontes externas e permitiu criar métricas consistentes para o dashboard no Power BI.
 <br>
 
-<br><br><br><br>
-
+<br><br><br>
 
 
 <br><br>
@@ -39,7 +34,7 @@ A investigação desse outlier reforça a importância de não apenas acompanhar
 <br>
 
 
-<br><br><br>
+<br><br>
 
 ## ✅ Resultados e Benefícios
 • 	Identificação das diferenças de escala entre as lojas (NY, CA, TX). <br>
